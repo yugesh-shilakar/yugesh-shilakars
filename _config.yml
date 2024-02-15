@@ -22,16 +22,16 @@ author:
   bio              : "Software Engineer"
   pronouns         : # example: "she/her"
   location         : "Kathmandu"
-  orcid            : ""
+  orcid            : 
   employer         :
   email            : "officialyugeshshilakar@gmail.com"
   uri              :
 
   # Manuscript repositories
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : ""         # Update with the correct link to your profile
+  googlescholar    :          # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : ""
+  pubmed           : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
@@ -49,7 +49,7 @@ author:
   lastfm           :
   linkedin         :
   kaggle           : # "kaggleusername"
-  mastodon         : ""
+  mastodon         : 
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
