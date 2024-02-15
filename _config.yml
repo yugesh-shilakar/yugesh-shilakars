@@ -19,44 +19,44 @@ repository               : "yugesh-shilakar/yugesh-shilakar.github.io"
 author:
   name             : "Yugesh R. Shilakar"
   avatar           : "pp1.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Engineer"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
+  location         : "Kathmandu"
+  orcid            : ""
   employer         :
-  email            :  
+  email            : "officialyugeshshilakar@gmail.com"
   uri              :
 
   # Manuscript repositories
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  googlescholar    : ""         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
   bitbucket        :
   codepen          :
   dribbble         :
-  facebook         :
+  facebook         :  "yugesh.shilakar"
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "yugesh-shilakar"
   goodreads        :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "yugesh_shilakar"
   lastfm           :
   linkedin         :
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  mastodon         : ""
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "YugeshShilakar"
   vine             :
   weibo            :
   wikipedia        :
