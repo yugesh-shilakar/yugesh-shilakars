@@ -9,16 +9,16 @@
 locale                   : "en-US"
 title                    : "Yugesh S."
 title_separator          : "-"
-name                     : &name "Yugesh Raj Shilakar"
+name                     : &name "Yugesh R. Shilakar"
 description              : &description "personal description"
 url                      : https://yugesh-shilakar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yugesh-shilakar/yugesh-shilakar.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Yugesh R. Shilakar"
+  avatar           : "pp.png"
   bio              : "Your biography for the left-hand sidebar"
   pronouns         : # example: "she/her"
   location         : "Location"
