@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello 👋 It's Yugesh R. Shilakar"
+title: "Hello I'm Yugesh Raj Shilakar."
 author_profile: true
 redirect_from: 
   - /about/
